@@ -37,4 +37,4 @@ python ./code/main.py --validation 1 --img_size_max 1025 --load_model (folder na
 3. Just enjoy!
 
 
-reference : https://github.com/tamarott/SinGAN (ofiicial repository) & https://github.com/FriedRonaldo/SinGAN
+> reference : https://github.com/tamarott/SinGAN (ofiicial repository) & https://github.com/FriedRonaldo/SinGAN
